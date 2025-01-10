@@ -33,7 +33,7 @@ Occupancy Networks bridge the gap between offline accuracy and real-time flexibi
 # Occupancy Networks
 
 <div align="center">
-  <img src="https://github.com/abhisheknair10/occupancy.nn/blob/main/assets/occupancy.jpeg" alt="inference" width="600">
+  <img src="https://github.com/abhisheknair10/occupancy.nn/blob/main/assets/occupancy.jpg" alt="inference" width="600">
 </div>
 
 > Building stuff right now. Nothing to see here yet.
