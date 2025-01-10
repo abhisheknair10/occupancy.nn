@@ -4,7 +4,7 @@
   <img src="https://github.com/abhisheknair10/occupancy.nn/blob/main/assets/3d-reconstruction.jpg" alt="inference" width="600">
 </div>
 
-> This project is a work in progress, but is being actively developed.
+> This project is a work in progress (early stages), but is being actively developed.
 
 # Introduction
 
