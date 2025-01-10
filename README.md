@@ -8,7 +8,7 @@
 
 # Introduction
 
-## Current State of 3D Reconstruction from Vision
+### *Current State of 3D Reconstruction from Vision*
 
 Reconstructing a 3D scene is a non-trivial task and can be done in a lot of ways:
 
@@ -18,7 +18,7 @@ Reconstructing a 3D scene is a non-trivial task and can be done in a lot of ways
 
 But there’s a catch. Techniques like NeRFs and Gaussian Splatting are offline methods. You need to have all the images of the scene beforehand, train the model, and only then can you get depth information. This makes them unsuitable for real-time applications like Tesla Vision, where the system needs to reconstruct the scene in real-time to make real-time decisions based on scene and environment semantics.
 
-## Realtime Methods
+### *Realtime Methods*
 
 Voxel-based methods provide another approach, allowing models to predict density at discrete points in a 3D grid. However, this approach has a major limitation: resolution. Since the grid is discrete, the resolution at which the scene can be reconstructed is restricted by memory and computational limits.
 
