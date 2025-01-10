@@ -1,4 +1,4 @@
-# Occupancy.nn - Pipeline to Train and Inference Occupancy Networks
+# Occupancy.nn - Train and Inference Occupancy Networks
 
 <div align="center">
   <img src="https://github.com/abhisheknair10/occupancy.nn/blob/main/assets/3d-reconstruction.jpg" alt="inference" width="600">
